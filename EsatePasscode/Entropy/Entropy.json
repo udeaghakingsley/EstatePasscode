@@ -1,0 +1,76 @@
+{
+  "ComponentIndexes": {},
+  "ControlUniqueGuids": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "BottomContainer1": 8,
+    "HeaderContainer1": 7,
+    "Home": 4,
+    "Host": 3,
+    "MainContainer1": 10,
+    "Screen2": 5,
+    "ScreenContainer1": 6,
+    "SidebarContainer1": 9
+  },
+  "FunctionParamsInvariantScripts": {},
+  "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "08/02/2023 15:23:33",
+  "IsLegacyComponentAllowGlobalScopeCase": false,
+  "LocalConnectionIDReferences": {
+    "d875cddc-e9e2-4e42-9114-2b43f972de37": "\"/providers/microsoft.powerapps/apis/shared_office365users/connections/2b1fff5e975d4e299098e91d24ca1ff1\""
+  },
+  "LocalDatabaseReferencesAsEmpty": false,
+  "LocalResourceFileNames": {},
+  "LocalResourceRootPaths": {},
+  "OrderComponentMetadata": {},
+  "OrderComponentTemplate": {},
+  "OrderDataSource": {
+    "ComboBoxSample": 2,
+    "CustomGallerySample": 1,
+    "Office365Users": 0
+  },
+  "OrderGroupControls": {},
+  "OrderPcfTemplate": {},
+  "OrderTemplate": {},
+  "OrderXMLTemplate": {
+    "groupContainer": 0
+  },
+  "OverridablePropertiesEntry": {
+    "App": {},
+    "BottomContainer1": {},
+    "HeaderContainer1": {},
+    "Home": {},
+    "Host": {},
+    "MainContainer1": {},
+    "Screen2": {},
+    "ScreenContainer1": {},
+    "SidebarContainer1": {}
+  },
+  "PCFDynamicSchemaForIRRetrievalEntry": {},
+  "PCFTemplateEntry": {},
+  "PublishOrderIndices": {
+    "App": 0,
+    "BottomContainer1": 2,
+    "HeaderContainer1": 1,
+    "Home": 0,
+    "Host": 0,
+    "MainContainer1": 4,
+    "Screen2": 0,
+    "ScreenContainer1": 0,
+    "SidebarContainer1": 3
+  },
+  "ResourcesJsonIndices": {
+    "Image-SampleImage": 0
+  },
+  "RuleScreenIdWithoutScreen": {},
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.0623863,
+    "ControlCount": {
+      "groupContainer": 5,
+      "screen": 2
+    },
+    "DeserializationLoadTime": 0.5092238
+  },
+  "WasLocalDatabaseReferencesEmpty": true
+}
